@@ -11,7 +11,7 @@ const CuriousCats=[
 ]
 
 const ResultCat=()=>{
-    const [List, setList]=useState(""); 
+  
 
 
     return(
